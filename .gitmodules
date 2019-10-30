@@ -1,0 +1,8 @@
+[submodule "miniprogram"]
+	path = miniprogram
+	url = https://github.com/zhongjixiuxing/WeTodos-miniprogram.git
+	branch = master
+[submodule "serverless"]
+	path = serverless
+	url = https://github.com/zhongjixiuxing/WeTodos-serverless.git
+	branch = master
