@@ -24,10 +24,10 @@
 
  * 打开Wechat 官方的[小程序开发工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html), 导入miniprogram 目录的项目到小程序开发工具中，即可看到小程序页面。
 
-   **Tips**: 
-
-   	* 注意这里需要更改 **miniprogram/config.js** 配置文件里面的**apollo** 访问URL为localhost.
-   	* 如果没有小程序账号，可以申请用[小程序的测试账号](https://developers.weixin.qq.com/miniprogram/dev/devtools/sandbox.html)
+   > Tips: 
+   > * 注意这里需要更改 **miniprogram/config.js** 配置文件里面的**apollo** 访问URL为localhost.
+   > * 如果没有小程序账号，可以申请用[小程序的测试账号](https://developers.weixin.qq.com/miniprogram/dev/devtools/sandbox.html)
+   
 
 
 
@@ -84,15 +84,17 @@
      **wxAppSecret**:  wechat 小程序的secret
      **jwtPubKey**:  项目的RSA 的公开证书的Base64 编码。
      
+
 ​						RSA 自行google/百度 search **RSA 证书生成**关键字操作
-     
-     ​						注意这里是将public 证书的内容通过base64 编码后的内容哦，
-     
+​     
+​     ​						注意这里是将public 证书的内容通过base64 编码后的内容哦，
+​     
      ​						public证书的内容首尾不能有空格和换行符
      **jwtPriKey**:  项目的RSA 的私有证书的Base64 编码。同上
-     
-     
-     
+
+
+​     
+​     
    *  然后保存退出，在命令行终端下执行
    
       ```bash
