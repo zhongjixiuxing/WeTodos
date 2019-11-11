@@ -4,7 +4,7 @@
 
 [微信小程序客户端体验程序](https://github.com/zhongjixiuxing/WeTodos-miniprogram)：
 
-<img align="left" width="150" height="150" src="https://ae01.alicdn.com/kf/Ha2cefce2dde94730ab017ceb910f5e99H.jpg" />
+<img align="left" width="150" height="150" src="https://ae01.alicdn.com/kf/H041e880b398644928d26b77490bd6dfce.jpg" />
 <br/>
 <br/>
 <br/>
